@@ -18,9 +18,8 @@ through hands-on Python practice and assignments.
 ## Progress
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | AI & Agentic AI Intro | ✅ Attended |
-| 2 | Python Setup & Basics | 🔄 Practicing |
-| 3 | Python Essentials | 🔄 Current focus |
+| 1 | AI & Agentic AI Intro | ✅ |
+| 2 | Python Setup, Basics & Essentials| ✅ |
 
 ## Key Projects
 - *To be added as course progresses*
