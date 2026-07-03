@@ -19,7 +19,7 @@ elif(per>=60):
 elif(per<60):
 	grade="F"
 print("")
-print("			REPORT CARD			")
+print("	---- REPORT CARD ----	")
 print("Name:",name)
 print("Total:",total,"/300")
 print("Percentage: ",per)
