@@ -1,0 +1,8 @@
+i1=float(input("Enter price of item 1:"))
+i2=float(input("Enter price of item 2:"))
+i3=float(input("Enter price of item 3:"))
+print("--- BILL ---")
+print("Subtotal:",i1+i2+i3)
+print("GST (17%):",(i1+i2+i3)*0.17)
+t= ((i1+i2+i3)*(0.17))+(i1+i2+i3)
+print("Total:",t)
