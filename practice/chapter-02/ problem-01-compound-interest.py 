@@ -1,7 +1,7 @@
 P=int(input("Enter the Principal Amount (PKR): "))
 R=int(input("Enter annual interest rate (%): "))
 T=int(input("Enter time (years): "))
-A=P*(1+R/100)**3
+A=P*(1+R/100)**T
 CI=A-P
 print("Compound Interest:",CI)
 print("Total Amount:", A)
