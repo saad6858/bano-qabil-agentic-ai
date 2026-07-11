@@ -1,0 +1,2 @@
+num=input("Enter the 11 digit phone number without dashes: ")
+print(num[:4]+"-"+num[4:])

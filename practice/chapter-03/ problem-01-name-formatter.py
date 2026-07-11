@@ -1,0 +1,7 @@
+first=input("Enter your first name: ")
+last=input("Enter your last name: ")
+print(f"Full Name: {first} {last}")
+print(f"Uppercase: {first.upper()} {last.upper()}")
+print(f"Lowercase: {first.lower()} {last.lower()}")
+print(f"Initials: {first[0].capitalize()}.{last[0].capitalize()}.")
+print("Length:",len(first)+len(last)) 
