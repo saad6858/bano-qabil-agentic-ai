@@ -13,14 +13,12 @@ through hands-on Python practice and assignments.
 - `practice_projects/` — Bano Qabil, Code with Harry and personal practice projects
 - `projects/` — Bano Qabil, Code with Harry and personal projects
 - `assignments/` — Submitted assignments
-- `experiments/` — Personal exploration beyond syllabus
 
 ## Progress
 | Week | Topic | Status |
 |------|-------|--------|
 | 1 | AI & Agentic AI Intro | ✅ |
-| 2 | Python Setup, Basics & Essentials| ✅ |
-
+| 2 | Python Setup, Basics & Essentials| 
 ## Key Projects
 - *To be added as course progresses*
 
