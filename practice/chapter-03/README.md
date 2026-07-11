@@ -18,8 +18,5 @@
 | `problem-04-word-counter.py` | Counts characters, spaces, and words |
 | `problem-05-password-masker.py` | Masks password except first 2 characters |
 
-## Harry's Practice Set
-Completed separately. Not pushed to this repo.
-
 ## Status
 ✅ Completed
