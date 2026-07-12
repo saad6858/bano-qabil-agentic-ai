@@ -17,8 +17,10 @@ through hands-on Python practice and assignments.
 ## Progress
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | AI & Agentic AI Intro | ✅ |
-| 2 | Python Setup, Basics & Essentials| 
+| 1 | AI, Agentic AI Intro & Assignment 1 | ✅ |
+| 2 | Python Setup, Basics & Essentials | ✅ |
+| 3 | Conditionals, Loops, Functions & Assignment 2 | ✅ |
+| 4 | Data Structures (Lists, Tuples, Dicts, Sets) & OOP Basics | ✅ |
 ## Key Projects
 - *To be added as course progresses*
 
